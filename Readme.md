@@ -1,5 +1,9 @@
 # MateBook13 2019 Ventura EFI 
 
+> EFI 原地址 : [代码仓库](https://github.com/ske1996/matebook-13and14-OpenCore-Hackintosh) 感谢🙏大神ske1996 
+
+注：我只是升级了OC配置文件和驱动
+
 **配置:**
 > CPU : i5 8265U
 
@@ -13,11 +17,20 @@
 
 **状态**
 
-[x] 正常开机
+✅ 正常开机
 
-[x] 蓝牙
+✅ 蓝牙
 
-[x] Wifi
+✅ Wifi
 
-[x] 声卡
+✅ 声卡
 
+✅ HiDPi
+
+✅ 睡眠
+
+**截图**
+![01](./Doc/SSC01.png)
+![01](./Doc/SSC02.png)
+![01](./Doc/SSC03.png)
+![01](./Doc/SSC04.png)
